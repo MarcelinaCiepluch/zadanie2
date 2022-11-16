@@ -1,0 +1,60 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    flex-grow: initial;
+    -ms-flex-direction: row;
+    flex-shrink: initial;
+    -webkit-box-flex: initial;
+    -ms-flex-line-pack: center;
+    -ms-flex-order: initial;
+    -moz-box-flex: initial;
+}
+.header{
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: xx-large;
+    color: red;
+    border: 5px solid gray;
+    text-align: center;
+    background-color: #000;
+}
+body {
+    background-color: lightblue;
+    }
+.maintext{
+    font-size: large;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+}
+.subtext{
+    font-size: xx-small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+#form{
+    position: fixed;
+    bottom: 1px;
+    border: yellowgreen;
+}
+#d
+{
+    position: fixed;
+    bottom: 1px;
+    border: yellowgreen;
+}
+.GFD{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    flex-basis: auto;
+    flex-grow: initial;
+    -ms-flex-direction: row;
+    flex-shrink: initial;
+    -webkit-box-flex: initial;
+}
